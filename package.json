@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-ops-addf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Compute the sum of two single-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
