@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import addf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-addf@deno/mod.js';
+import addf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-addf@v0.2.2-deno/mod.js';
 ```
 
 #### addf( x, y )
@@ -98,7 +98,7 @@ v = addf( NaN, NaN );
 
 ```javascript
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import addf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-addf@deno/mod.js';
+import addf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-addf@v0.2.2-deno/mod.js';
 
 var x;
 var y;
